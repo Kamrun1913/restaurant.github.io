@@ -54,7 +54,7 @@ $(window).scroll(function(){
 
 //rippls
 $("#header, .info").ripples({
-  dropRadius: 25,
+  dropRadius: 13,
   perturbance: 0.6,
   
 });
